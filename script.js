@@ -48,6 +48,3 @@ clearBtn.addEventListener("click", () => {
 });
 
 // ── TASKS: code below this line ────────────────────────────
-title.addEventListener("dblclick", () => {
-  document.getElementById("title").textContent = "Web Dev Dashboard";
-});
